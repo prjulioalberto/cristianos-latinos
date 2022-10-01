@@ -1,22 +1,8 @@
 EXTINF:-1
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BKYtwZe.png" group-title="CHRISTIANITY (EN)",Emmanuel TV (NG)
-http://api.new.livestream.com/accounts/23202872/events/7200883/live.m3u8
-
-#EXTINF:-1 
-title="Hispanos",better life español
-http://uni5rtmp.tulix.tv:1935/bettervida/bettervida/playlist.m3u8
-
-
-#EXTINF:-1 
-title="Hispanos",Elohim
-http://205.164.56.130:1935/radhames706/radhames706/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4ydVVIA.png" group-title="CHRISTIANITY (ES)",3ABN Latino (US)
 https://moiptvhls-i.akamaihd.net/hls/live/652315/secure/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/t8A1vem.png" group-title="CHRISTIANITY (ES)",Aliento Vision (US)
-https://livestreamcdn.net:444/AlientoSD/smil:AlientoSD.smil/playlist.m3u8
 
 #EXTINF:-1
 tvg-logo="https://avivamiento.com/404/img/logo.png" group-title="Hispanos",ABN
